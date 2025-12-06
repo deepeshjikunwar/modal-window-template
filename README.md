@@ -6,8 +6,6 @@ A minimal template demonstrating a modal dialog with an overlay and simple open/
 
 Open `index.html` in your browser and click any "Show modal" button to open the modal.
 
-Preview images (add these files under `modal-window-template/assets/`):
-
 <img src="assets/image-preview-1.png" alt="Modal preview" width="900"/>
 <img src="assets/image-preview-2.png" alt="Modal preview" width="900"/>
 
